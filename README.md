@@ -1,6 +1,7 @@
 - MS(By Research) at Indian Institute of Technology, H.P.
 -  Research Area - Unsupervised Anomaly Segmentation using Knowledge Distillation (Teacher-Student) Framework and Quantization.
--  Worked at Wipro Ltd. in Low Latency Computer Vision applications .
+-  Research Associate at Hitachi R&D India.
+-  Also worked in Wipro Ltd. in Low Latency Computer Vision applications .
 - 👋 Hi, I’m @sushovanjena
 - 👀 Research in Computer Vision using Deep Learning.
 - 💞️ I’m looking to collaborate on CV projects.
