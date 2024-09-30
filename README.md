@@ -1,10 +1,10 @@
-- MS(By Research) at Indian Institute of Technology, H.P.
--  Research Area - Unsupervised Anomaly Segmentation using Knowledge Distillation (Teacher-Student) Framework and Quantization.
--  Research Associate at Hitachi R&D India.
--  Also worked in Wipro Ltd. in Low Latency Computer Vision applications .
 - 👋 Hi, I’m @sushovanjena
-- 👀 Research in Computer Vision using Deep Learning.
-- 💞️ I’m looking to collaborate on CV projects.
+-  MS(By Research) at Indian Institute of Technology, H.P.
+-  Research Area - Unsupervised Anomaly Segmentation using Knowledge Distillation (Teacher-Student) Framework and Quantization.
+-  Expertise - Object Detection, Medical Imaging, Edge devices, Large Language Models, Vision Language Models
+-  Graduate Research Associate at Hitachi R&D India.
+-  Experience in Wipro Ltd. in Computer Vision applications.
+- 💞️ I’m looking to collaborate on LLM and GenAI projects.
 - 📫 How to reach me - sushovanjena@gmail.com
 
 <!---
